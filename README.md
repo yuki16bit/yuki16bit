@@ -1,9 +1,22 @@
-## Hi there, I'm Kyo aka kyo144. 👋
-### I'm a Front-end Developer.
-- 🌱 I'm also currently learning more about backend development.
-- 💎 Fun fact: Anime illustrations that you can see in my github are all drew by myself 😉.
-- ✨ Pronouns: She / Her
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 0 0 50%;">
+
+  ## Hi there, I'm Kyo aka kyo144. 👋
+  ### I'm a Front-end Developer.
+  - 🌱 I'm also currently learning more about backend development.
+  - 💎 Fun fact: Anime illustrations that you can see in my github are all drew by myself 😉
+  - ✨ Pronouns: She / Her
+  
+
+
+  </div>
+  <div style="flex: 0 0 50%">
+    <img src="./imgs/kyo144-avatar-1.png">
+  </div>
+</div>
+
 ---
+
 ![](https://github-readme-stats.vercel.app/api?username=kyo144&count_private=true&show_icons=true&theme=ayu-mirage&hide=issues,contribs)
----
+
 ###### Last Updated : 16/03/2022
