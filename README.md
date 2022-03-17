@@ -17,15 +17,15 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-175-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
-🌆 Daytime    20 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64% 
-🌃 Evening    21 commits     ██████░░░░░░░░░░░░░░░░░░░   26.92% 
-🌙 Night      36 commits     ███████████░░░░░░░░░░░░░░   46.15%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+🌆 Daytime    20 commits     █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+🌃 Evening    23 commits     ██████░░░░░░░░░░░░░░░░░░░   26.14% 
+🌙 Night      44 commits     ████████████░░░░░░░░░░░░░   50.0%
 
 ```
 
@@ -58,7 +58,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kyo144/kyo144/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/03/2022 16:18:41 UTC
+ Last Updated on 17/03/2022 16:50:26 UTC
 <!--END_SECTION:waka-->
 
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
