@@ -14,29 +14,15 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35% 
-🌆 Daytime    20 commits     ██████░░░░░░░░░░░░░░░░░░░   27.03% 
-🌃 Evening    17 commits     █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-🌙 Night      36 commits     ████████████░░░░░░░░░░░░░   48.65%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       7 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-Tuesday      10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.51% 
-Wednesday    19 commits     ██████░░░░░░░░░░░░░░░░░░░   25.68% 
-Thursday     18 commits     ██████░░░░░░░░░░░░░░░░░░░   24.32% 
-Friday       11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-Saturday     4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
-Sunday       5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
+🌞 Morning    1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.28% 
+🌆 Daytime    20 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64% 
+🌃 Evening    21 commits     ██████░░░░░░░░░░░░░░░░░░░   26.92% 
+🌙 Night      36 commits     ███████████░░░░░░░░░░░░░░   46.15%
 
 ```
 
@@ -50,9 +36,6 @@ Sunday       5 commits      █░░░░░░░░░░░░░░░░�
 No Activity Tracked This Week
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -72,7 +55,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kyo144/kyo144/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/03/2022 09:55:44 UTC
+ Last Updated on 17/03/2022 15:45:31 UTC
 <!--END_SECTION:waka-->
 
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
