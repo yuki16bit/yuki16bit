@@ -1,10 +1,9 @@
-<img style="width:280px;" align="right" src="./imgs/kyo144-avatar-1.png">
-<br />
+<img style="width:270px;" align="right" src="./imgs/kyo144-avatar-1.png">
 
 ## Hi there, I'm Kyo aka kyo144. 👋
 ### I'm a Front-end Web Developer.
 - 🌱 I'm also currently learning more about backend web development.
-- 💎 Fun fact: Anime illustrations that you can see in my github are all drew by myself 😉 (Well, reproduce or use them is prohibited.)
+- 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (Well, reproduce or use them is prohibited.)
 - ✨ Pronouns: She / Her
 
 <br />
@@ -58,5 +57,3 @@
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-###### Last Updated : 16/03/2022
