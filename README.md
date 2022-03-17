@@ -5,6 +5,7 @@
 - 🌱 I'm also currently learning more about backend web development.
 - 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (Well, reproduce or use them is prohibited.)
 - ✨ Pronouns: She / Her
+- test
 
 [![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/kyo144)
 [![](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)](https://codepen.io/kyo144)
