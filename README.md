@@ -33,10 +33,10 @@
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 44 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.0%
 
 ```
 
@@ -55,7 +55,7 @@ Python                   1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/kyo144/kyo144/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/03/2022 16:01:45 UTC
+ Last Updated on 17/03/2022 16:02:26 UTC
 <!--END_SECTION:waka-->
 
 ![](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
