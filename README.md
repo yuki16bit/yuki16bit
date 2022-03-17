@@ -6,8 +6,6 @@
 - 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (Well, reproduce or use them is prohibited.)
 - ✨ Pronouns: She / Her
 
-<br />
-
 [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyo144)
 [![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/kyo144)
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kyo144)
