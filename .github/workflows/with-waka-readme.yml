@@ -1,21 +1,18 @@
-name: update-with-waka-readme
-
+name: with-waka-readme
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
 jobs:
-  update-with-waka-readme:
+  update-readme:
+    name: update with waka readme
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      - name: update with waka readme
-        run: echo "🍏 This job's status is ${{ job.status }}."
+      - run: echo "🍏 This job's status is ${{ job.status }}."
 
   notify:
-    needs: update-with-waka-readme
+    needs: update-readme
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
@@ -27,4 +24,3 @@ jobs:
           SHOW_OS: False
           SHOW_DAYS_OF_WEEK: False
           SHOW_TOTAL_CODE_TIME: False
-      - name: Update Readme with Metrics
