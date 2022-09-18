@@ -1,8 +1,8 @@
 <img style="width:270px;" align="right" src="./imgs/kyo144-avatar-1.png">
 
-## Hi there, I'm Kyo aka kyo144. 👋
-### I'm a Front-end Web Developer.
-- 🌱 I'm also currently learning more about backend web development.
+## Hi there, I'm Chiyu aka 千柚. 👋
+### I'm a Full Stack Web Developer.
+- 🌱 I'm also currently learning more about cloud web development.
 - 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (Well, reproduce or use them is prohibited.)
 - ✨ Pronouns: She / Her
 
