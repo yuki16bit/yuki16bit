@@ -2,8 +2,8 @@
 
 ## Hi there, I'm Chiyu aka 千柚. 👋
 ### I'm a Full Stack Web Developer.
-- 🌱 I'm also currently learning more about cloud web development.
-- 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (Well, reproduce or use them is prohibited.)
+- 🌱 My core tech stack consists of: React.js (Next.js) / Python / GCP.
+- 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (Reproduce or use them is prohibited.)
 - ✨ Pronouns: She / Her
 
 [![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyo144)
