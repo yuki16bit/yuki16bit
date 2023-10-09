@@ -1,14 +1,13 @@
 <img style="width:270px;" align="right" src="./imgs/kyo144-avatar-1.png">
 
-## Hi there, I'm Chiyu aka 千柚. 👋
+## Hi there, I'm Ayu. 👋
 ### I'm a Full Stack Web Developer.
 - 🌱 My core tech stack consists of: React.js (Next.js) / Python / GCP.
-- 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (Reproduce or use them is prohibited.)
-- ✨ Pronouns: She / Her
+- 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (reproduce or use them is prohibited).
 
-[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kyo144)
-[![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/kyo144)
-[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kyo144)
+[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayu-yuzuneko)
+[![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/ayu_yuzuneko)
+[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ayu_yuzuneko)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
