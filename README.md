@@ -1,13 +1,13 @@
-<img style="width:270px;" align="right" src="./imgs/kyo144-avatar-1.png">
+<img style="width:270px;" align="right" src="./imgs/yuzunekoayu-avatar.png">
 
 ## Hi there, I'm Ayu. 👋
 ### I'm a Full Stack Web Developer.
 - 🌱 My core tech stack consists of: React.js (Next.js) / Python / GCP.
 - 💎 Fun fact: Anime illustrations that you can see on my github are all drew by myself 😉 (reproduce or use them is prohibited).
 
-[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayu-yuzuneko)
-[![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/ayu_yuzuneko)
-[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ayu_yuzuneko)
+[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuzunekoayu)
+[![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/yuzunekoayu)
+[![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yuzunekoayu)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
