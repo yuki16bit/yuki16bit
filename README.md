@@ -7,11 +7,10 @@
 - 🍡 I'm also an anime illustrator, and trilingual (mandarin, japanese, english).
 - ⛩ All anime illustrations on my GitHub are my own creations. Please don't reproduce or use them.
 
-[![](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yuki16bit)
 [![](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)](https://codesandbox.io/u/yuki16bit)
 [![](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/yuki16bit)
 
-**My skills 🎋**
+**My main skills 🎋**
 
 [![SkillIcons](https://skillicons.dev/icons?i=react,ts,js,next,tailwind,css,mui,html,vite,vitest,py,docker,gcp,aws,figma)](https://skillicons.dev)
 
