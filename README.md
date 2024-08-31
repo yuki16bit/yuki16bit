@@ -12,7 +12,7 @@
 
 **My main skills 🎋**
 
-[![SkillIcons](https://skillicons.dev/icons?i=react,ts,js,next,tailwind,css,mui,html,vite,vitest,py,docker,gcp,aws,figma)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=react,redux,ts,js,next,tailwind,css,mui,html,vite,py,docker,gcp,aws,figma)](https://skillicons.dev)
 
 <details>
   <summary><b>Github Stats ⚡</b></summary>
@@ -24,7 +24,6 @@
 
 <details>
   <summary><b>WakaTime Stats ✨</b></summary>
-  <br/>
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-741%20hrs%2045%20mins-blue)
