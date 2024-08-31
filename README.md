@@ -24,8 +24,9 @@
 
 <details>
   <summary><b>WakaTime Stats ✨</b></summary>
-  <br/>
+
 <!--START_SECTION:waka-->
+
 **I'm a Night 🦉**
 
 ```text
