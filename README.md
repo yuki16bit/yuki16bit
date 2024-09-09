@@ -42,10 +42,10 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-leetcode-30-days-of-javas2 mins              █████████████████████████   100.00 % 
+leetcode-30-days-of-javas0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/09/2024 20:18:22 UTC
+ Last Updated on 09/09/2024 20:19:41 UTC
 <!--END_SECTION:waka-->
 </details>
