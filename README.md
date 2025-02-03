@@ -42,10 +42,12 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+milecoolab-frontend      2 hrs 27 mins       ███████████████████░░░░░░   74.68 % 
+2022-tw-dev-cm-contract-s33 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+milecoolab-frontend-0    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
 ```
 
 
- Last Updated on 02/02/2025 20:18:39 UTC
+ Last Updated on 03/02/2025 20:20:24 UTC
 <!--END_SECTION:waka-->
 </details>
