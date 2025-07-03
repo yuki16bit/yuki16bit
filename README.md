@@ -42,10 +42,11 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+yuki                     39 mins             ██████████████████████░░░   88.36 % 
+yuki-astro               5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
 ```
 
 
- Last Updated on 02/07/2025 20:23:29 UTC
+ Last Updated on 03/07/2025 20:24:24 UTC
 <!--END_SECTION:waka-->
 </details>
