@@ -42,12 +42,12 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-platform-backstage-12 hrs 39 mins      ██████████████████████░░░   86.50 % 
-yuki                     1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-news-spark-frontend      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+force-platform-backstage-14 hrs 42 mins      █████████████████████░░░░   85.19 % 
+yuki                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+news-spark-frontend      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 ```
 
 
- Last Updated on 19/03/2026 20:41:55 UTC
+ Last Updated on 20/03/2026 20:36:54 UTC
 <!--END_SECTION:waka-->
 </details>
