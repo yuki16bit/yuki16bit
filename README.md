@@ -29,10 +29,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-🌆 Daytime                149 commits         █████████░░░░░░░░░░░░░░░░   34.49 % 
-🌃 Evening                157 commits         █████████░░░░░░░░░░░░░░░░   36.34 % 
-🌙 Night                  123 commits         ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+🌆 Daytime                155 commits         █████████░░░░░░░░░░░░░░░░   35.23 % 
+🌃 Evening                159 commits         █████████░░░░░░░░░░░░░░░░   36.14 % 
+🌙 Night                  123 commits         ███████░░░░░░░░░░░░░░░░░░   27.95 % 
 ```
 
 
@@ -42,12 +42,13 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-platform-backstage-14 hrs 42 mins      ██████████████████░░░░░░░   71.66 % 
-yuki                     5 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
-news-spark-frontend      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+force-platform-backstage-13 hrs 56 mins      ██████████████░░░░░░░░░░░   54.34 % 
+yuki                     11 hrs 25 mins      ███████████░░░░░░░░░░░░░░   44.50 % 
+news-spark-frontend      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+milecoolab-frontend-0    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 
- Last Updated on 22/03/2026 20:32:27 UTC
+ Last Updated on 23/03/2026 20:41:01 UTC
 <!--END_SECTION:waka-->
 </details>
