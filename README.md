@@ -29,10 +29,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-🌆 Daytime                155 commits         █████████░░░░░░░░░░░░░░░░   34.91 % 
-🌃 Evening                161 commits         █████████░░░░░░░░░░░░░░░░   36.26 % 
-🌙 Night                  125 commits         ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+🌆 Daytime                155 commits         █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌃 Evening                161 commits         █████████░░░░░░░░░░░░░░░░   36.10 % 
+🌙 Night                  127 commits         ███████░░░░░░░░░░░░░░░░░░   28.48 % 
 ```
 
 
@@ -42,12 +42,12 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-platform-backstage-13 hrs 54 mins      █████████████░░░░░░░░░░░░   50.77 % 
-yuki                     13 hrs 24 mins      ████████████░░░░░░░░░░░░░   48.95 % 
-milecoolab-frontend-0    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+force-platform-backstage-16 hrs 12 mins      ██████████████░░░░░░░░░░░   54.72 % 
+yuki                     13 hrs 19 mins      ███████████░░░░░░░░░░░░░░   45.02 % 
+milecoolab-frontend-0    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 
 
- Last Updated on 26/03/2026 20:39:41 UTC
+ Last Updated on 27/03/2026 20:42:44 UTC
 <!--END_SECTION:waka-->
 </details>
