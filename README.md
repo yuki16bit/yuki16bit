@@ -30,9 +30,9 @@
 
 ```text
 🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-🌆 Daytime                157 commits         █████████░░░░░░░░░░░░░░░░   34.58 % 
-🌃 Evening                165 commits         █████████░░░░░░░░░░░░░░░░   36.34 % 
-🌙 Night                  129 commits         ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌆 Daytime                159 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
+🌃 Evening                165 commits         █████████░░░░░░░░░░░░░░░░   36.03 % 
+🌙 Night                  131 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
 ```
 
 
@@ -42,12 +42,12 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-platform-backstage-16 hrs 12 mins      █████████████░░░░░░░░░░░░   50.65 % 
-yuki                     15 hrs 42 mins      ████████████░░░░░░░░░░░░░   49.12 % 
-milecoolab-frontend-0    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+yuki                     16 hrs 1 min        █████████████░░░░░░░░░░░░   51.51 % 
+force-platform-backstage-13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.52 % 
+force-combo-gaming-backof1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 ```
 
 
- Last Updated on 29/03/2026 20:37:05 UTC
+ Last Updated on 30/03/2026 20:50:29 UTC
 <!--END_SECTION:waka-->
 </details>
