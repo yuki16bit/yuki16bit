@@ -42,12 +42,12 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-yuki                     16 hrs 1 min        █████████████░░░░░░░░░░░░   51.51 % 
-force-platform-backstage-13 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.52 % 
-force-combo-gaming-backof1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+yuki                     17 hrs 1 min        ██████████████░░░░░░░░░░░   55.88 % 
+force-platform-backstage-10 hrs 32 mins      █████████░░░░░░░░░░░░░░░░   34.58 % 
+force-combo-gaming-backof2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 ```
 
 
- Last Updated on 30/03/2026 20:50:29 UTC
+ Last Updated on 31/03/2026 20:46:52 UTC
 <!--END_SECTION:waka-->
 </details>
