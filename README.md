@@ -29,10 +29,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
-🌆 Daytime                159 commits         █████████░░░░░░░░░░░░░░░░   34.72 % 
-🌃 Evening                165 commits         █████████░░░░░░░░░░░░░░░░   36.03 % 
-🌙 Night                  131 commits         ███████░░░░░░░░░░░░░░░░░░   28.60 % 
+🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+🌆 Daytime                159 commits         █████████░░░░░░░░░░░░░░░░   34.19 % 
+🌃 Evening                171 commits         █████████░░░░░░░░░░░░░░░░   36.77 % 
+🌙 Night                  132 commits         ███████░░░░░░░░░░░░░░░░░░   28.39 % 
 ```
 
 
@@ -42,14 +42,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-yuki                     16 hrs              █████████████░░░░░░░░░░░░   50.27 % 
-force-platform-backstage-8 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-force-combo-gaming-backof7 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
-Unknown Project          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-commands                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+yuki                     17 hrs              █████████████░░░░░░░░░░░░   51.28 % 
+force-combo-gaming-backof9 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.85 % 
+force-platform-backstage-6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+commands                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
- Last Updated on 01/04/2026 20:49:10 UTC
+ Last Updated on 02/04/2026 20:38:40 UTC
 <!--END_SECTION:waka-->
 </details>
