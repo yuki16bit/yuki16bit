@@ -26,30 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-🌆 Daytime                166 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌃 Evening                183 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
-🌙 Night                  137 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-🐱‍💻 Projects: 
-force-combo-gaming-fronte2 hrs 41 mins       ████████████░░░░░░░░░░░░░   48.08 % 
-force-combo-gaming-backof2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   38.05 % 
-news-spark-frontend      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-force-platform-backstage-7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-yuki                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-```
-
-
- Last Updated on 16/04/2026 20:53:00 UTC
+ Last Updated on 17/04/2026 20:50:38 UTC
 <!--END_SECTION:waka-->
 </details>
