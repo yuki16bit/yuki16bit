@@ -30,9 +30,9 @@
 
 ```text
 🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-🌆 Daytime                166 commits         ████████░░░░░░░░░░░░░░░░░   33.95 % 
-🌃 Evening                183 commits         █████████░░░░░░░░░░░░░░░░   37.42 % 
-🌙 Night                  137 commits         ███████░░░░░░░░░░░░░░░░░░   28.02 % 
+🌆 Daytime                169 commits         █████████░░░░░░░░░░░░░░░░   34.21 % 
+🌃 Evening                183 commits         █████████░░░░░░░░░░░░░░░░   37.04 % 
+🌙 Night                  139 commits         ███████░░░░░░░░░░░░░░░░░░   28.14 % 
 ```
 
 
@@ -42,14 +42,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-yuki                     5 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   36.68 % 
-force-combo-gaming-fronte5 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.53 % 
-force-combo-gaming-backof2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-forceweblib              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-news-spark-frontend      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+yuki                     7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.77 % 
+force-combo-gaming-fronte5 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
+force-combo-gaming-backof2 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+forceweblib              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+news-spark-frontend      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 ```
 
 
- Last Updated on 18/04/2026 20:40:33 UTC
+ Last Updated on 19/04/2026 20:41:54 UTC
 <!--END_SECTION:waka-->
 </details>
