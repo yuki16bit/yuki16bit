@@ -29,10 +29,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-🌆 Daytime                170 commits         █████████░░░░░░░░░░░░░░░░   34.34 % 
-🌃 Evening                183 commits         █████████░░░░░░░░░░░░░░░░   36.97 % 
-🌙 Night                  139 commits         ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+🌆 Daytime                170 commits         █████████░░░░░░░░░░░░░░░░   34.27 % 
+🌃 Evening                183 commits         █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌙 Night                  140 commits         ███████░░░░░░░░░░░░░░░░░░   28.23 % 
 ```
 
 
@@ -42,14 +42,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-combo-gaming-fronte13 hrs 30 mins      █████████████░░░░░░░░░░░░   52.47 % 
-yuki                     9 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
-force-combo-gaming-backof1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
-forceweblib              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Force-Jackpot-Combo-Front15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+force-combo-gaming-fronte15 hrs 2 mins       █████████████░░░░░░░░░░░░   52.30 % 
+yuki                     12 hrs 3 mins       ██████████░░░░░░░░░░░░░░░   41.90 % 
+forceweblib              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+force-combo-gaming-backof32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Force-Jackpot-Combo-Front21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
 ```
 
 
- Last Updated on 22/04/2026 20:58:53 UTC
+ Last Updated on 23/04/2026 20:56:32 UTC
 <!--END_SECTION:waka-->
 </details>
