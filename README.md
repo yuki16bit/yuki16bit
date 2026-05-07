@@ -42,14 +42,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-combo-gaming-backof13 hrs 4 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-yuzu-bot                 8 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
-yuki                     3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-kyo144                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-force-platform-backstage-21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+force-combo-gaming-backof13 hrs 57 mins      ███████████░░░░░░░░░░░░░░   44.82 % 
+yuzu-bot                 8 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+yuki                     5 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+force-platform-backstage-2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+kyo144                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 
- Last Updated on 06/05/2026 21:13:31 UTC
+ Last Updated on 07/05/2026 21:06:54 UTC
 <!--END_SECTION:waka-->
 </details>
