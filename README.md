@@ -42,11 +42,11 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-combo-gaming-fronte1 hr 16 mins        ████████████████████████░   96.33 % 
-force-combo-gaming-backof2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+force-combo-gaming-fronte2 hrs 10 mins       █████████████████████████   99.53 % 
+force-combo-gaming-backof0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 
 
- Last Updated on 29/06/2026 21:28:16 UTC
+ Last Updated on 30/06/2026 21:41:06 UTC
 <!--END_SECTION:waka-->
 </details>
