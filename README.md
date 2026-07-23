@@ -42,14 +42,14 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-web-ui             1 hr 55 mins        █████████░░░░░░░░░░░░░░░░   34.31 % 
-force-combo-gaming-fronte1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   33.62 % 
-force-crm                34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-force-combo-gaming-backof34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Desktop                  30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+force-combo-gaming-fronte2 hrs 36 mins       █████████████░░░░░░░░░░░░   53.40 % 
+force-crm                57 mins             █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+force-combo-gaming-backof55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Desktop                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+RailroadGold             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
- Last Updated on 22/07/2026 21:11:05 UTC
+ Last Updated on 23/07/2026 21:06:29 UTC
 <!--END_SECTION:waka-->
 </details>
