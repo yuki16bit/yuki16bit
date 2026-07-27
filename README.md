@@ -26,6 +26,8 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-207%20hrs%201%20min-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -49,7 +51,30 @@ force-combo-gaming-backof29 mins             ██░░░░░░░░░�
 unityNode                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 20:59:46 UTC
+```text
+⏱ AI Coding Time: 6 hrs 51 mins (86.61%)
+
+✍️ 862 lines written by AI, 355 lines written by hand (70.83% AI-written)
+
+🔤 58,097,293 Input Tokens, 177,034 Output Tokens
+
+💵 $293.84 Estimated AI Cost This Week
+
+🧠 11 AI Sessions, 86 AI Prompts
+
+Opus                     863 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 70.83% of written lines came from AI
+📄 Detailed Prompter — average 569 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 29.25% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 21:12:47 UTC
 <!--END_SECTION:waka-->
 </details>
