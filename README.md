@@ -26,7 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-212%20hrs%2033%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,38 +44,37 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                5 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.68 % 
-Desktop                  5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.03 % 
-force-combo-gaming-backof47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-force-combo-gaming-fronte40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-unityNode                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+force-crm                4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.00 % 
+Desktop                  4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.23 % 
+force-combo-gaming-backof50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+force-combo-gaming-fronte40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+playground-nodejs        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 15 mins (83.12%)
+⏱ AI Coding Time: 9 hrs 2 mins (83.37%)
 
-✍️ 1,637 lines written by AI, 192 lines written by hand (89.5% AI-written)
+✍️ 1,348 lines written by AI, 60 lines written by hand (95.74% AI-written)
 
-🔤 94,083,987 Input Tokens, 563,463 Output Tokens
+🔤 116,870,324 Input Tokens, 594,582 Output Tokens
 
-💵 $483.35 Estimated AI Cost This Week
+💵 $599.14 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 137 AI Prompts
+🧠 8 AI Sessions, 121 AI Prompts
 
-Opus                     1,761 lines         █████████████████████████   100.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,480 lines         █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.5% of written lines came from AI
-📝 Concise Prompter — average 131 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 11.6% of changed lines were hand-edited
+🤖 AI-Driven — 95.74% of written lines came from AI
+📝 Concise Prompter — average 134 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 7.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/07/2026 21:12:33 UTC
+ Last Updated on 31/07/2026 21:06:55 UTC
 <!--END_SECTION:waka-->
 </details>
