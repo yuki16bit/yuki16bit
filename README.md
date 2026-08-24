@@ -44,35 +44,35 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                5 hrs 33 mins       ██████████████████████░░░   86.83 % 
-webgl-shell              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Desktop                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+force-crm                5 hrs 33 mins       ██████████████████████░░░   86.41 % 
+webgl-shell              36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+Desktop                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 13 mins (81.43%)
+⏱ AI Coding Time: 5 hrs 10 mins (80.5%)
 
-✍️ 685 lines written by AI, 54 lines written by hand (92.69% AI-written)
+✍️ 716 lines written by AI, 54 lines written by hand (92.99% AI-written)
 
-🔤 4,349,881 Input Tokens, 405,697 Output Tokens
+🔤 3,461,587 Input Tokens, 385,629 Output Tokens
 
-💵 $138.20 Estimated AI Cost This Week
+💵 $122.12 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 50 AI Prompts
+🧠 8 AI Sessions, 49 AI Prompts
 
-Opus                     822 lines           █████████████████████████   100.00 % 
+Opus                     853 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.69% of written lines came from AI
-📄 Detailed Prompter — average 722 characters per prompt
+🤖 AI-Driven — 92.99% of written lines came from AI
+📄 Detailed Prompter — average 783 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 9.67% of changed lines were hand-edited
+🚀 High AI Trust — 9.35% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/08/2026 20:25:10 UTC
+ Last Updated on 24/08/2026 20:32:18 UTC
 <!--END_SECTION:waka-->
 </details>
