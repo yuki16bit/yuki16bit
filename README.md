@@ -26,7 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-252%20hrs%208%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-252%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,35 +44,35 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                4 hrs 6 mins        █████████████████░░░░░░░░   68.13 % 
-Desktop                  1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-webgl-shell              42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+force-crm                2 hrs 38 mins       █████████████████░░░░░░░░   68.35 % 
+Desktop                  56 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+webgl-shell              17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 3 mins (84.01%)
+⏱ AI Coding Time: 3 hrs 14 mins (84.11%)
 
-✍️ 501 lines written by AI, 1 lines written by hand (99.8% AI-written)
+✍️ 202 lines written by AI, 1 lines written by hand (99.51% AI-written)
 
-🔤 4,749,638 Input Tokens, 417,848 Output Tokens
+🔤 4,639,534 Input Tokens, 301,990 Output Tokens
 
-💵 $125.66 Estimated AI Cost This Week
+💵 $88.29 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 52 AI Prompts
+🧠 7 AI Sessions, 44 AI Prompts
 
-Opus                     508 lines           █████████████████████████   100.00 % 
+Opus                     202 lines           █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 951 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.51% of written lines came from AI
+📄 Detailed Prompter — average 1,116 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 22:36:36 UTC
+ Last Updated on 08/09/2026 22:26:50 UTC
 <!--END_SECTION:waka-->
 </details>
