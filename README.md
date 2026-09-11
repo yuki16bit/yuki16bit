@@ -26,7 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-255%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-257%20hrs%2029%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,35 +44,35 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                5 hrs 4 mins        ██████████████████░░░░░░░   71.62 % 
-Desktop                  1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
-webgl-shell              29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+force-crm                3 hrs 45 mins       █████████████████░░░░░░░░   68.20 % 
+Desktop                  1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   27.99 % 
+webgl-shell              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 46 mins (95.68%)
+⏱ AI Coding Time: 5 hrs 26 mins (99.08%)
 
-✍️ 202 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 37 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,182,110 Input Tokens, 591,766 Output Tokens
+🔤 3,798,434 Input Tokens, 411,187 Output Tokens
 
-💵 $172.97 Estimated AI Cost This Week
+💵 $133.39 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 76 AI Prompts
+🧠 7 AI Sessions, 66 AI Prompts
 
-Opus                     202 lines           █████████████████████████   100.00 % 
+Opus                     37 lines            █████████████████████████   100.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,310 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📄 Detailed Prompter — average 1,025 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 22:19:51 UTC
+ Last Updated on 11/09/2026 22:19:49 UTC
 <!--END_SECTION:waka-->
 </details>
