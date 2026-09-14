@@ -44,37 +44,38 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                3 hrs 45 mins       █████████████████░░░░░░░░   66.20 % 
-Desktop                  1 hr 32 mins        ███████░░░░░░░░░░░░░░░░░░   27.17 % 
-webgl-shell              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-yuki                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+force-crm                3 hrs 43 mins       ████████████████░░░░░░░░░   65.47 % 
+Desktop                  1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+webgl-shell              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+yuki                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 36 mins (99.09%)
+⏱ AI Coding Time: 5 hrs 38 mins (99.09%)
 
-✍️ 37 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,800,939 Input Tokens, 413,692 Output Tokens
+🔤 3,440,196 Input Tokens, 404,023 Output Tokens
 
-💵 $133.43 Estimated AI Cost This Week
+💵 $121.88 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 69 AI Prompts
+🧠 8 AI Sessions, 72 AI Prompts
 
-Opus                     37 lines            █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,126 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 915 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 22:12:30 UTC
+ Last Updated on 14/09/2026 22:59:52 UTC
 <!--END_SECTION:waka-->
 </details>
