@@ -26,15 +26,15 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-261%20hrs%2034%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-🌆 Daytime                181 commits         ████████░░░░░░░░░░░░░░░░░   33.46 % 
-🌃 Evening                198 commits         █████████░░░░░░░░░░░░░░░░   36.60 % 
-🌙 Night                  155 commits         ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+🌆 Daytime                181 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌃 Evening                200 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
+🌙 Night                  155 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
 ```
 
 
@@ -44,39 +44,40 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                4 hrs 34 mins       █████████████████░░░░░░░░   69.58 % 
-Desktop                  1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-webgl-shell              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-yuki                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+force-crm                5 hrs 17 mins       ███████████████████░░░░░░   75.49 % 
+Desktop                  1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+webgl-shell              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+yuki                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+koyomi                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 31 mins (99.17%)
+⏱ AI Coding Time: 7 hrs (99.95%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 845 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,562,284 Input Tokens, 334,223 Output Tokens
+🔤 4,236,893 Input Tokens, 339,874 Output Tokens
 
-💵 $105.97 Estimated AI Cost This Week
+💵 $92.09 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 77 AI Prompts
+🧠 16 AI Sessions, 79 AI Prompts
 
-GPT                      3 lines             █████████████████████████   100.00 % 
+Sonnet                   910 lines           █████████████████████████   99.67 % 
+GPT                      3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 865 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 282 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/09/2026 22:42:47 UTC
+ Last Updated on 17/09/2026 22:44:17 UTC
 <!--END_SECTION:waka-->
 </details>
