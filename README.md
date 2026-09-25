@@ -26,15 +26,15 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-273%20hrs%2011%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-274%20hrs%2058%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-🌆 Daytime                181 commits         ████████░░░░░░░░░░░░░░░░░   33.33 % 
-🌃 Evening                200 commits         █████████░░░░░░░░░░░░░░░░   36.83 % 
-🌙 Night                  155 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+🌆 Daytime                181 commits         ████████░░░░░░░░░░░░░░░░░   33.27 % 
+🌃 Evening                200 commits         █████████░░░░░░░░░░░░░░░░   36.76 % 
+🌙 Night                  156 commits         ███████░░░░░░░░░░░░░░░░░░   28.68 % 
 ```
 
 
@@ -44,38 +44,38 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                12 hrs 20 mins      ████████████████████████░   96.44 % 
-force-combo-gaming-fronte11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-webgl-shell              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Desktop                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-RailroadGold             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+force-crm                9 hrs 41 mins       ████████████████████████░   96.24 % 
+koyomi                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+webgl-shell              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+Desktop                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+yuki                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 38 mins (83.17%)
+⏱ AI Coding Time: 8 hrs 15 mins (81.94%)
 
-✍️ 1,137 lines written by AI, 233 lines written by hand (82.99% AI-written)
+✍️ 1,013 lines written by AI, 229 lines written by hand (81.56% AI-written)
 
-🔤 3,789,392 Input Tokens, 268,371 Output Tokens
+🔤 3,068,669 Input Tokens, 213,756 Output Tokens
 
-💵 $56.65 Estimated AI Cost This Week
+💵 $46.25 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 139 AI Prompts
+🧠 10 AI Sessions, 105 AI Prompts
 
-GPT                      1,289 lines         █████████████████████████   100.00 % 
+GPT                      1,083 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.99% of written lines came from AI
-📝 Concise Prompter — average 299 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 19.34% of changed lines were hand-edited
+🤖 AI-Driven — 81.56% of written lines came from AI
+📝 Concise Prompter — average 340 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 22.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/09/2026 23:05:14 UTC
+ Last Updated on 25/09/2026 23:10:20 UTC
 <!--END_SECTION:waka-->
 </details>
