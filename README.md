@@ -44,19 +44,19 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                9 hrs 41 mins       ████████████████████████░   96.24 % 
-koyomi                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-webgl-shell              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Desktop                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+force-crm                9 hrs 41 mins       ███████████████████████░░   91.17 % 
+koyomi                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+webgl-shell              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Desktop                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 yuki                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 15 mins (81.94%)
+⏱ AI Coding Time: 8 hrs 15 mins (77.62%)
 
-✍️ 1,013 lines written by AI, 229 lines written by hand (81.56% AI-written)
+✍️ 1,013 lines written by AI, 238 lines written by hand (80.98% AI-written)
 
 🔤 3,068,669 Input Tokens, 213,756 Output Tokens
 
@@ -69,13 +69,13 @@ Sonnet                   0 lines             ░░░░░░░░░░░�
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.56% of written lines came from AI
+🤖 AI-Driven — 80.98% of written lines came from AI
 📝 Concise Prompter — average 340 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 22.09% of changed lines were hand-edited
+🚀 High AI Trust — 22.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 23:10:20 UTC
+ Last Updated on 26/09/2026 22:28:13 UTC
 <!--END_SECTION:waka-->
 </details>
