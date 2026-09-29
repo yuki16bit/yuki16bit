@@ -44,38 +44,37 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                9 hrs 18 mins       ███████████████████████░░   90.83 % 
-koyomi                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-webgl-shell              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Desktop                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-yuki                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+force-crm                7 hrs 5 mins        ██████████████████████░░░   89.61 % 
+koyomi                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Desktop                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+yuki                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 52 mins (76.91%)
+⏱ AI Coding Time: 6 hrs 18 mins (79.63%)
 
-✍️ 957 lines written by AI, 238 lines written by hand (80.08% AI-written)
+✍️ 1,572 lines written by AI, 25 lines written by hand (98.43% AI-written)
 
-🔤 2,629,612 Input Tokens, 199,743 Output Tokens
+🔤 3,038,882 Input Tokens, 180,604 Output Tokens
 
-💵 $43.29 Estimated AI Cost This Week
+💵 $35.65 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 99 AI Prompts
+🧠 7 AI Sessions, 79 AI Prompts
 
-GPT                      1,027 lines         █████████████████████████   100.00 % 
+GPT                      1,632 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.08% of written lines came from AI
-📝 Concise Prompter — average 290 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 23.81% of changed lines were hand-edited
+🤖 AI-Driven — 98.43% of written lines came from AI
+📝 Concise Prompter — average 370 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 2.91% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/09/2026 00:15:36 UTC
+ Last Updated on 29/09/2026 23:32:17 UTC
 <!--END_SECTION:waka-->
 </details>
