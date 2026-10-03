@@ -26,7 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-278%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-281%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,17 +44,16 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                6 hrs 59 mins       ██████████████████████░░░   86.66 % 
-koyomi                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-webgl-shell              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+force-crm                6 hrs 59 mins       ███████████████████████░░   93.11 % 
+webgl-shell              31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 41 mins (82.88%)
+⏱ AI Coding Time: 6 hrs 41 mins (89.05%)
 
-✍️ 1,998 lines written by AI, 11 lines written by hand (99.45% AI-written)
+✍️ 1,998 lines written by AI, 2 lines written by hand (99.9% AI-written)
 
 🔤 2,276,738 Input Tokens, 222,925 Output Tokens
 
@@ -66,13 +65,13 @@ GPT                      2,135 lines         ███████████�
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.45% of written lines came from AI
+🤖 AI-Driven — 99.9% of written lines came from AI
 📝 Concise Prompter — average 311 characters per prompt
 🔁 Iterative Prompter — average 21 prompts per session
-🚀 High AI Trust — 0.97% of changed lines were hand-edited
+🚀 High AI Trust — 0.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 23:36:50 UTC
+ Last Updated on 03/10/2026 22:44:49 UTC
 <!--END_SECTION:waka-->
 </details>
