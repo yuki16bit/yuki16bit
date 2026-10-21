@@ -44,34 +44,35 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                1 hr 47 mins        ██████████████░░░░░░░░░░░   57.93 % 
-new-chat                 1 hr 18 mins        ███████████░░░░░░░░░░░░░░   42.06 % 
+force-crm                1 hr 23 mins        █████████████░░░░░░░░░░░░   50.18 % 
+new-chat                 1 hr 21 mins        ████████████░░░░░░░░░░░░░   49.06 % 
+force-portal             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 webgl-shell              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (82.24%)
+⏱ AI Coding Time: 2 hrs 20 mins (84.64%)
 
-✍️ 121 lines written by AI, 1 lines written by hand (99.18% AI-written)
+✍️ 121 lines written by AI, 15 lines written by hand (88.97% AI-written)
 
-🔤 956,693 Input Tokens, 19,069 Output Tokens
+🔤 1,207,258 Input Tokens, 18,426 Output Tokens
 
-💵 $2.96 Estimated AI Cost This Week
+💵 $3.49 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 45 AI Prompts
+🧠 6 AI Sessions, 46 AI Prompts
 
 GPT                      121 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.18% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
+🤖 AI-Driven — 88.97% of written lines came from AI
+📝 Concise Prompter — average 114 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 1.63% of changed lines were hand-edited
+🚀 High AI Trust — 11.03% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/10/2026 22:59:33 UTC
+ Last Updated on 21/10/2026 23:03:50 UTC
 <!--END_SECTION:waka-->
 </details>
