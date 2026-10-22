@@ -26,7 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-287%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,35 +44,34 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                1 hr 23 mins        █████████████░░░░░░░░░░░░   50.18 % 
-new-chat                 1 hr 21 mins        ████████████░░░░░░░░░░░░░   49.06 % 
-force-portal             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-webgl-shell              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+force-crm                1 hr 1 min          ████████████░░░░░░░░░░░░░   47.39 % 
+new-chat                 50 mins             ██████████░░░░░░░░░░░░░░░   38.60 % 
+force-portal             18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (84.64%)
+⏱ AI Coding Time: 1 hr 35 mins (73.47%)
 
-✍️ 121 lines written by AI, 15 lines written by hand (88.97% AI-written)
+✍️ 59 lines written by AI, 15 lines written by hand (79.73% AI-written)
 
-🔤 1,207,258 Input Tokens, 18,426 Output Tokens
+🔤 917,029 Input Tokens, 16,399 Output Tokens
 
-💵 $3.49 Estimated AI Cost This Week
+💵 $2.58 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 46 AI Prompts
+🧠 6 AI Sessions, 30 AI Prompts
 
-GPT                      121 lines           █████████████████████████   100.00 % 
+GPT                      59 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.97% of written lines came from AI
-📝 Concise Prompter — average 114 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 11.03% of changed lines were hand-edited
+🤖 AI-Driven — 79.73% of written lines came from AI
+📝 Concise Prompter — average 230 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 20.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/10/2026 23:03:50 UTC
+ Last Updated on 22/10/2026 23:01:49 UTC
 <!--END_SECTION:waka-->
 </details>
