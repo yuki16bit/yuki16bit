@@ -26,7 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-287%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%209%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,34 +44,33 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                51 mins             █████████████░░░░░░░░░░░░   50.96 % 
-new-chat                 31 mins             ████████░░░░░░░░░░░░░░░░░   31.09 % 
-force-portal             18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.96 % 
+force-crm                59 mins             ███████████████████░░░░░░   77.63 % 
+force-portal             17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (85.28%)
+⏱ AI Coding Time: 1 hr (79.01%)
 
-✍️ 33 lines written by AI, 15 lines written by hand (68.75% AI-written)
+✍️ 43 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 730,812 Input Tokens, 15,546 Output Tokens
+🔤 486,344 Input Tokens, 15,058 Output Tokens
 
-💵 $2.12 Estimated AI Cost This Week
+💵 $1.71 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 29 AI Prompts
+🧠 5 AI Sessions, 22 AI Prompts
 
-GPT                      33 lines            █████████████████████████   100.00 % 
+GPT                      43 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 68.75% of written lines came from AI
-📝 Concise Prompter — average 309 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 31.25% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 583 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/10/2026 23:36:25 UTC
+ Last Updated on 28/10/2026 23:55:53 UTC
 <!--END_SECTION:waka-->
 </details>
