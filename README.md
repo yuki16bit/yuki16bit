@@ -26,7 +26,7 @@
   <summary><b>WakaTime Stats ✨</b></summary>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-288%20hrs%2018%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -44,33 +44,34 @@
 🕑︎ Time Zone: Asia/Taipei
 
 🐱‍💻 Projects: 
-force-crm                59 mins             ███████████████████░░░░░░   77.63 % 
-force-portal             17 mins             ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
+force-crm                1 hr 14 mins        ███████████████░░░░░░░░░░   59.88 % 
+force-combo-gaming-fronte49 mins             ██████████░░░░░░░░░░░░░░░   40.02 % 
+terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr (79.01%)
+⏱ AI Coding Time: 2 hrs (97.57%)
 
-✍️ 43 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 334 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 486,344 Input Tokens, 15,058 Output Tokens
+🔤 583,851 Input Tokens, 15,760 Output Tokens
 
-💵 $1.71 Estimated AI Cost This Week
+💵 $2.53 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 22 AI Prompts
+🧠 5 AI Sessions, 33 AI Prompts
 
-GPT                      43 lines            █████████████████████████   100.00 % 
+GPT                      334 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 583 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 513 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 23:55:53 UTC
+ Last Updated on 29/10/2026 23:50:23 UTC
 <!--END_SECTION:waka-->
 </details>
